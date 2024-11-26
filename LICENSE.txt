@@ -1,2 +1,1 @@
-Programming under MIT license (LICENSE_MIT.txt)
-Media under CC-BY-SA 3.0 (see copying.txt)
+See copying.txt for licensing information
