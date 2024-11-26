@@ -1,0 +1,3 @@
+Code: MIT License from Vejou, see LICENSE_MIT.txt
+Media: glass textures derived from Stellua (stl_decor) ; licensed CC BY-SA 3.0, by Vejou (except with default_glass.png), theidealist, Minetest Game, and Krock (whose version is CC0 1.0, and is in Minetest Game)
+XCF files are included in this media licensing
