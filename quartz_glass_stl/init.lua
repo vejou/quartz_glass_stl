@@ -26,7 +26,7 @@ local string m = "quartz_glass_stl:"
 	groups = {cracky = 1, spaceship = 1},
 	})
 
-local function defglass(glassinput, glassoutput) {
+local function defglass(glassinput, glassoutput)
 	core.register_craft({
 		output = glassoutput,
 		recipe = {
@@ -35,7 +35,7 @@ local function defglass(glassinput, glassoutput) {
 		{glassinput, glassinput, glassinput}
 		}
 	})
-}
+end
 
 defglass("stl_core:quartz1", m .. "amethyst_glass")
 defglass("stl_core:quartz2", m .. "citrine_glass")
