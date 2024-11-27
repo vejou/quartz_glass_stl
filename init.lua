@@ -11,6 +11,7 @@ local string m = "quartz_glass_stl:"
 			drawtype = "glasslike",
 			paramtype = "light",
 			sunlight_propagates = true,
+			sounds = stellua.node_sound_glass_defaults(),
 		})
 	end
 	makeglassblock("aventurine_glass", "Aventurine Tinted Glass")
